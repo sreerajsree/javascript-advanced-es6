@@ -24,3 +24,6 @@
 
 12 - Inheritance
 
+13 - Promise Chaining
+
+14 - Async Await

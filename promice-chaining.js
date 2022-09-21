@@ -1,6 +1,6 @@
 console.log('Requesting 1');
 
-fetch('https://jsonplaceholder.typicode.com/posts/1')
+fetch('c')
     .then((data) =>{
         return data.json();
     })
