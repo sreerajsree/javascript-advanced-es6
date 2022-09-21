@@ -12,18 +12,3 @@
 
 6 - Spread Operator
 
-7 - Destructing Assignment
-
-8 - Array Functions
-
-9 - Nested Destructing
-
-10 - Class
-
-11 - Setters & Getters
-
-12 - Inheritance
-
-13 - Promise Chaining
-
-14 - Async Await
